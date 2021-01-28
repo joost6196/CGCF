@@ -1,0 +1,12 @@
+Changes in the Karting Micrograme :
+-front wheels rainbow trails
+-back wheels fire trails
+-Billboard with bernie sanders 
+-Adjusted the top speed to 50
+-Added a hat 
+-Changed the environment display
+-Added a surprise at the finish
+-Added visual disturbance by trees
+-Added gravity so it will not free away after the jump
+-Changed the steer value to 1
+-Changed acceleration value to 1 
